@@ -3,7 +3,7 @@ function basicTeenager(age) {
     return "You are a teenager!"
   }
 }
-
+/*
 function teenager(age) {
  if (age >= 13 && age <= 19){
     return ("You are a teenager!");
@@ -42,4 +42,4 @@ function switchAge(age) {
       //return "You have an age"
   }
   //console.log("What's your age");*/
-}
+}*/
