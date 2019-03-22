@@ -40,5 +40,5 @@ function switchAge(age) {
       //console.log("You have an age");
       return "You have an age"
   }
-  console.log("What's your age");
+  //console.log("What's your age");
 }
